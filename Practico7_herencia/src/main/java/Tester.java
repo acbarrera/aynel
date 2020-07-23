@@ -23,12 +23,12 @@ public class Tester extends Empleado{
     public void setAutomatizador(boolean automatizador) {
         this.automatizador = automatizador;
     }
-
     @Override
     public String toString() {
-        return "Tester{" +
+        /*return "Es " +
                 "manual=" + manual +
                 ", automatizador=" + automatizador +
-                '}';
+                '}';*/
+        if (automatizador){}
     }
 }
