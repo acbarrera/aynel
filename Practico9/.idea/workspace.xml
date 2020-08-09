@@ -62,6 +62,128 @@
       <recent name="C:\Users\Aynel Cruz\Documents\aynel\Practico9\drivers" />
     </key>
   </component>
+  <component name="RunManager" selected="TestNG.primeraPrueba.bbcMundo">
+    <configuration name="primeraPrueba.abrirBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Practico9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
+      <option name="METHOD_NAME" value="abrirBrowser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primeraPrueba.abrirNavegador" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Practico9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
+      <option name="METHOD_NAME" value="abrirNavegador" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primeraPrueba.abrirNavg (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Practico9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
+      <option name="METHOD_NAME" value="abrirNavg" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primeraPrueba.abrirNavg" type="TestNG" nameIsGenerated="true">
+      <module name="Practico9" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
+      <option name="METHOD_NAME" value="abrirNavg" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primeraPrueba.abrirNavg" type="TestNG" nameIsGenerated="true">
+      <module name="Practico9" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
+      <option name="METHOD_NAME" value="abrirNavg" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primeraPrueba.bbcMundo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Practico9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
+      <option name="METHOD_NAME" value="bbcMundo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primeraPrueba.mostrarTitulo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Practico9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
+      <option name="METHOD_NAME" value="mostrarTitulo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.primeraPrueba.abrirNavg" />
+      <item itemvalue="TestNG.primeraPrueba.abrirBrowser" />
+      <item itemvalue="TestNG.primeraPrueba.abrirNavg (1)" />
+      <item itemvalue="TestNG.primeraPrueba.abrirNavegador" />
+      <item itemvalue="TestNG.primeraPrueba.mostrarTitulo" />
+      <item itemvalue="TestNG.primeraPrueba.bbcMundo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.primeraPrueba.bbcMundo" />
+        <item itemvalue="TestNG.primeraPrueba.mostrarTitulo" />
+        <item itemvalue="TestNG.primeraPrueba.abrirNavegador" />
+        <item itemvalue="TestNG.primeraPrueba.abrirNavg (1)" />
+        <item itemvalue="TestNG.primeraPrueba.abrirBrowser" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -88,13 +210,64 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596922543070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596922543070" />
     <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596678921950">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596678921950" />
+    <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1596916339210">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1596916339210" />
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom" timestamp="1596942376561">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596942376561" />
+    <state width="1323" height="242" key="GridCell.Tab.0.center" timestamp="1596942376560">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596942376560" />
+    <state width="1323" height="242" key="GridCell.Tab.0.left" timestamp="1596942376560">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596942376560" />
+    <state width="1323" height="242" key="GridCell.Tab.0.right" timestamp="1596942376560">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596942376560" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1596917371081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596917371081" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1596917371081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596917371081" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1596917371081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596917371081" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1596917371081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596917371081" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1596854797789">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1596854797789" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596916808694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1596916808694" />
+    <state x="252" y="93" width="861" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596916930437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="252" y="93" width="861" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1596916930437" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practico9$primeraPrueba_abrirNavg__1_.ic" NAME="primeraPrueba.abrirNavg (1) Coverage Results" MODIFIED="1596917340867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
