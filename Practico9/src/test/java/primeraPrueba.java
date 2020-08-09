@@ -46,6 +46,7 @@ public class primeraPrueba {
         List<WebElement> listH1 = driver.findElements(By.tagName("h1"));
         List<WebElement> listP = driver.findElements(By.tagName("p"));
         List<WebElement> listH2 = driver.findElements(By.tagName("h2"));
+        List<WebElement> listH3 = driver.findElements(By.tagName("h3"));
 
         System.out.println("******Cantidad de etiquetas <h1> en "+ driver.getTitle()+"**********");
         System.out.println(listH1.size());
@@ -54,10 +55,11 @@ public class primeraPrueba {
         System.out.println("****** Cantidad de etiquetas <h2> en "+ driver.getTitle()+" **********");
         System.out.println(listH2.size());
         System.out.println("****** Tres titulos <h2> de "+ driver.getTitle()+" **********");
-        System.out.println(listH2.get(5));
-        System.out.println(listH2.get(1));
-        System.out.println(listH2.get(2));
-
+       // System.out.println(listH2.get(5));
+        //System.out.println(listH2.get(1));
+       // System.out.println(listH2.get(2));
+        System.out.println("******Cantidad de etiquetas <h3> en "+ driver.getTitle()+"**********");
+        System.out.println(listH3.size());
 
         driver.close();
     }
