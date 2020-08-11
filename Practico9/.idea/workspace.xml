@@ -62,19 +62,7 @@
       <recent name="C:\Users\Aynel Cruz\Documents\aynel\Practico9\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.primeraPrueba.bbcMundo">
-    <configuration name="primeraPrueba.abrirBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Practico9" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
-      <option name="METHOD_NAME" value="abrirBrowser" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.primeraPrueba.bbcMundoLinks">
     <configuration name="primeraPrueba.abrirNavegador" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practico9" />
       <option name="PACKAGE_NAME" value="" />
@@ -154,6 +142,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="primeraPrueba.bbcMundoLinks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Practico9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
+      <option name="METHOD_NAME" value="bbcMundoLinks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="primeraPrueba.mostrarTitulo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practico9" />
       <option name="PACKAGE_NAME" value="" />
@@ -168,19 +168,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.primeraPrueba.abrirNavg" />
-      <item itemvalue="TestNG.primeraPrueba.abrirBrowser" />
       <item itemvalue="TestNG.primeraPrueba.abrirNavg (1)" />
       <item itemvalue="TestNG.primeraPrueba.abrirNavegador" />
       <item itemvalue="TestNG.primeraPrueba.mostrarTitulo" />
       <item itemvalue="TestNG.primeraPrueba.bbcMundo" />
+      <item itemvalue="TestNG.primeraPrueba.bbcMundoLinks" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.primeraPrueba.bbcMundoLinks" />
         <item itemvalue="TestNG.primeraPrueba.bbcMundo" />
         <item itemvalue="TestNG.primeraPrueba.mostrarTitulo" />
         <item itemvalue="TestNG.primeraPrueba.abrirNavegador" />
         <item itemvalue="TestNG.primeraPrueba.abrirNavg (1)" />
-        <item itemvalue="TestNG.primeraPrueba.abrirBrowser" />
       </list>
     </recent_temporary>
   </component>
@@ -222,22 +222,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1596916339210" />
-    <state width="1323" height="242" key="GridCell.Tab.0.bottom" timestamp="1596942376561">
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom" timestamp="1597111500920">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596942376561" />
-    <state width="1323" height="242" key="GridCell.Tab.0.center" timestamp="1596942376560">
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597111500920" />
+    <state width="1323" height="242" key="GridCell.Tab.0.center" timestamp="1597111500920">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596942376560" />
-    <state width="1323" height="242" key="GridCell.Tab.0.left" timestamp="1596942376560">
+    <state width="1323" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597111500920" />
+    <state width="1323" height="242" key="GridCell.Tab.0.left" timestamp="1597111500919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596942376560" />
-    <state width="1323" height="242" key="GridCell.Tab.0.right" timestamp="1596942376560">
+    <state width="1323" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597111500919" />
+    <state width="1323" height="242" key="GridCell.Tab.0.right" timestamp="1597111500920">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596942376560" />
+    <state width="1323" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597111500920" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1596917371081">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

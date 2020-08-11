@@ -34,7 +34,7 @@ public class primeraPrueba {
         System.out.println("**********titulo**************");
         System.out.println(driver.getTitle());
     }
-    @Test //ejercicio3
+    @Test //ejercicio3  falta imprimir
     public void bbcMundo(){
         GetProperties properties = new GetProperties();
         String chromeDriverURL = properties.getString("CHROMEDRIVER_PATH");
@@ -50,17 +50,50 @@ public class primeraPrueba {
 
         System.out.println("******Cantidad de etiquetas <h1> en "+ driver.getTitle()+"**********");
         System.out.println(listH1.size());
+
         System.out.println("****** Cantidad de etiquetas <p> en "+ driver.getTitle()+" **********");
         System.out.println(listP.size());
+
         System.out.println("****** Cantidad de etiquetas <h2> en "+ driver.getTitle()+" **********");
         System.out.println(listH2.size());
-        System.out.println("****** Tres titulos <h2> de "+ driver.getTitle()+" **********");
-       // System.out.println(listH2.get(5));
-        //System.out.println(listH2.get(1));
-       // System.out.println(listH2.get(2));
+
+        System.out.println("****** Tres titulos <h2> de: "+ driver.getTitle()+" **********");
+        for (int i =0; i <= 2; i++){
+            System.out.println(listH2.get(i));
+        }
+
         System.out.println("******Cantidad de etiquetas <h3> en "+ driver.getTitle()+"**********");
         System.out.println(listH3.size());
-
+        System.out.println("****** Tres titulos <h3> de: "+ driver.getTitle()+" **********");
+        for (int i =0; i <= 2; i++){
+            System.out.println(listH3.get(i));
+        }
+        driver.manage().window().maximize();
+        driver.navigate().refresh();
         driver.close();
     }
+    @Test
+    public void bbcMundoLinks(){
+        GetProperties properties = new GetProperties();
+        String chromeDriverURL = properties.getString("CHROMEDRIVER_PATH");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Aynel Cruz\\Documents\\aynel\\Practico9\\drivers\\chromedriver.exe");
+
+        WebDriver driver = new ChromeDriver();
+        driver.get("https://www.bbc.com/mundo");
+
+        System.out.println("***************Todos los Likns del sitio: "+driver.getTitle()+"******************");
+        List<WebElement> listLinks = driver.findElements(By.tagName("a"));
+        for (WebElement link : listLinks){
+            System.out.println(link.getText());
+        }
+
+        List<WebElement> listaP = driver.findElements(By.tagName("p"));
+        System.out.println("***************Lista de etiquetas <p> en el sitio*******************");
+        System.out.println(listaP.size());
+
+        driver.manage().window().maximize();
+        driver.navigate().refresh();
+        driver.close();
+    }
+    
 }
