@@ -72,7 +72,7 @@ public class primeraPrueba {
         driver.navigate().refresh();
         driver.close();
     }
-    @Test
+    @Test //ejercio 4
     public void bbcMundoLinks(){
         GetProperties properties = new GetProperties();
         String chromeDriverURL = properties.getString("CHROMEDRIVER_PATH");
@@ -94,6 +94,44 @@ public class primeraPrueba {
         driver.manage().window().maximize();
         driver.navigate().refresh();
         driver.close();
+    }
+    @Test //ejercicio 5
+    public void bbcMundoListas(){
+        GetProperties properties = new GetProperties();
+        String chromeDriverURL = properties.getString("CHROMEDRIVER_PATH");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Aynel Cruz\\Documents\\aynel\\Practico9\\drivers\\chromedriver.exe");
+
+        WebDriver driver = new ChromeDriver();
+        driver.get("https://www.bbc.com/mundo");
+
+         List<WebElement> listaLi = driver.findElements(By.tagName("li"));
+         for (WebElement li: listaLi){
+             System.out.println(li.getText());
+         }
+         List<WebElement> listaP = driver.findElements(By.tagName("p"));
+         for (WebElement p:listaP){
+             System.out.println(p.getText());
+         }
+
+         driver.manage().window().maximize();
+         driver.navigate().refresh();
+         driver.close();
+    }
+    @Test //ejercicio 6
+    public void getTitleTest(){
+        GetProperties properties = new GetProperties();
+        String chromeDriverURL = properties.getString("CHROMEDRIVER_PATH");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Aynel Cruz\\Documents\\aynel\\Practico9\\drivers\\chromedriver.exe");
+
+        WebDriver driver = new ChromeDriver();
+        driver.get("https://www.google.com");
+
+        String title = driver.getTitle();
+        if (title == "Google")
+             System.out.println("Prueba pasada");
+        else
+            System.out.println("Prueba Fallida");
+
     }
     
 }
