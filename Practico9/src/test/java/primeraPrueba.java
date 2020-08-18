@@ -132,6 +132,20 @@ public class primeraPrueba {
         else
             System.out.println("Prueba Fallida");
 
+        driver.close();
     }
+    //ajercicio 9
+    private WebDriver getGoolgleDriver(String url){
+        GetProperties properties = new GetProperties();
+        String chromeDriverURL = properties.getString("CHROMEDRIVER_PATH");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Aynel Cruz\\Documents\\aynel\\Practico9\\drivers\\chromedriver.exe");
+
+        WebDriver driver = new ChromeDriver();
+        driver.get(url);
+
+        return driver;
+    }
+    @Test // 10
+    public void searchInGoogle (){}
     
 }
