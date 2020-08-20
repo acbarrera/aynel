@@ -1,11 +1,14 @@
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 import utilities.GetProperties;
 
+import java.security.Key;
+import java.security.KeyStore;
 import java.util.List;
 
 public class primeraPrueba {
@@ -145,7 +148,20 @@ public class primeraPrueba {
 
         return driver;
     }
-    @Test // 10
-    public void searchInGoogle (){}
-    
+    @Test // ejercicio 10
+    public void searchInGoogle (){
+        WebDriver driver = getGoolgleDriver("https://www.google.com/");
+        driver.findElement(By.cssSelector("[name='q'")).sendKeys("WebElement" + Keys.ENTER);
+    }
+    @Test //ejercicio 11
+    public void searchInGoogleAndGoBack(){
+        WebDriver driver = getGoolgleDriver("https://www.google.com/");
+        System.out.println(driver.getTitle());
+
+        driver.findElement(By.cssSelector("[name='q'")).sendKeys("selenium driver" + Keys.ENTER);
+        driver.navigate().back();
+        driver.navigate().refresh();
+        driver.navigate().forward();
+    }
+    @Test //ejercicio 12
 }
