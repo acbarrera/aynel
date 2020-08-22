@@ -164,4 +164,12 @@ public class primeraPrueba {
         driver.navigate().forward();
     }
     @Test //ejercicio 12
+    public void getBrowserSizes(){
+        WebDriver driver = getGoolgleDriver("https://www.facebook.com/");
+        System.out.println(driver.manage().window().getSize().height);
+        System.out.println(driver.manage().window().getSize().width);
+        driver.manage().window().maximize();
+        System.out.println(driver.manage().window().getSize().height);
+        System.out.println(driver.manage().window().getSize().width);
+    }
 }
