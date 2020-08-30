@@ -172,4 +172,5 @@ public class primeraPrueba {
         System.out.println(driver.manage().window().getSize().height);
         System.out.println(driver.manage().window().getSize().width);
     }
+    
 }

@@ -169,10 +169,10 @@
     <list>
       <item itemvalue="TestNG.primeraPrueba.abrirNavg" />
       <item itemvalue="TestNG.primeraPrueba.bbcMundoListas" />
-      <item itemvalue="TestNG.primeraPrueba.getTitleTest" />
-      <item itemvalue="TestNG.primeraPrueba.searchInGoogle" />
-      <item itemvalue="TestNG.primeraPrueba.searchInGoogleAndGoBack" />
       <item itemvalue="TestNG.primeraPrueba.getBrowserSizes" />
+      <item itemvalue="TestNG.primeraPrueba.getTitleTest" />
+      <item itemvalue="TestNG.primeraPrueba.searchInGoogleAndGoBack" />
+      <item itemvalue="TestNG.primeraPrueba.searchInGoogle" />
     </list>
     <recent_temporary>
       <list>
