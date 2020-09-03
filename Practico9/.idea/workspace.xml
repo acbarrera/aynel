@@ -62,13 +62,85 @@
       <recent name="C:\Users\Aynel Cruz\Documents\aynel\Practico9\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.primeraPrueba.getBrowserSizes">
+  <component name="RunManager" selected="TestNG.practico10.customSalesforceLink">
+    <configuration name="practico10.abrirNavegador" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Practico9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico10" />
+      <option name="MAIN_CLASS_NAME" value="practico10.practico10" />
+      <option name="METHOD_NAME" value="abrirNavegador" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practico10.customSalesforceLink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Practico9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico10" />
+      <option name="MAIN_CLASS_NAME" value="practico10.practico10" />
+      <option name="METHOD_NAME" value="customSalesforceLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practico10.forgotAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Practico9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico10" />
+      <option name="MAIN_CLASS_NAME" value="practico10.practico10" />
+      <option name="METHOD_NAME" value="forgotAccount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practico10.forgotAccountPartialLink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Practico9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico10" />
+      <option name="MAIN_CLASS_NAME" value="practico10.practico10" />
+      <option name="METHOD_NAME" value="forgotAccountPartialLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="primeraPrueba.abrirNavg" type="TestNG" nameIsGenerated="true">
       <module name="Practico9" />
       <useClassPathOnly />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
+      <option name="MAIN_CLASS_NAME" value="practico9.primeraPrueba" />
       <option name="METHOD_NAME" value="abrirNavg" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -106,59 +178,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="primeraPrueba.bbcMundoListas" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Practico9" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
-      <option name="METHOD_NAME" value="bbcMundoListas" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="primeraPrueba.getBrowserSizes" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practico9" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
+      <option name="MAIN_CLASS_NAME" value="practico9.primeraPrueba" />
       <option name="METHOD_NAME" value="getBrowserSizes" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="primeraPrueba.getTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Practico9" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
-      <option name="METHOD_NAME" value="getTitleTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="primeraPrueba.searchInGoogle" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Practico9" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
-      <option name="METHOD_NAME" value="searchInGoogle" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="primeraPrueba.searchInGoogleAndGoBack" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Practico9" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="primeraPrueba" />
-      <option name="METHOD_NAME" value="searchInGoogleAndGoBack" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -168,19 +192,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.primeraPrueba.abrirNavg" />
-      <item itemvalue="TestNG.primeraPrueba.bbcMundoListas" />
       <item itemvalue="TestNG.primeraPrueba.getBrowserSizes" />
-      <item itemvalue="TestNG.primeraPrueba.getTitleTest" />
-      <item itemvalue="TestNG.primeraPrueba.searchInGoogleAndGoBack" />
-      <item itemvalue="TestNG.primeraPrueba.searchInGoogle" />
+      <item itemvalue="TestNG.practico10.abrirNavegador" />
+      <item itemvalue="TestNG.practico10.forgotAccount" />
+      <item itemvalue="TestNG.practico10.forgotAccountPartialLink" />
+      <item itemvalue="TestNG.practico10.customSalesforceLink" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.practico10.customSalesforceLink" />
+        <item itemvalue="TestNG.practico10.forgotAccountPartialLink" />
+        <item itemvalue="TestNG.practico10.forgotAccount" />
+        <item itemvalue="TestNG.practico10.abrirNavegador" />
         <item itemvalue="TestNG.primeraPrueba.getBrowserSizes" />
-        <item itemvalue="TestNG.primeraPrueba.searchInGoogleAndGoBack" />
-        <item itemvalue="TestNG.primeraPrueba.searchInGoogle" />
-        <item itemvalue="TestNG.primeraPrueba.getTitleTest" />
-        <item itemvalue="TestNG.primeraPrueba.bbcMundoListas" />
       </list>
     </recent_temporary>
   </component>
@@ -222,22 +246,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1596916339210" />
-    <state width="1323" height="242" key="GridCell.Tab.0.bottom" timestamp="1598060748639">
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom" timestamp="1599099194273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598060748639" />
-    <state width="1323" height="242" key="GridCell.Tab.0.center" timestamp="1598060748639">
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599099194273" />
+    <state width="1323" height="242" key="GridCell.Tab.0.center" timestamp="1599099194273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598060748639" />
-    <state width="1323" height="242" key="GridCell.Tab.0.left" timestamp="1598060748639">
+    <state width="1323" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599099194273" />
+    <state width="1323" height="242" key="GridCell.Tab.0.left" timestamp="1599099194272">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598060748639" />
-    <state width="1323" height="242" key="GridCell.Tab.0.right" timestamp="1598060748639">
+    <state width="1323" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599099194272" />
+    <state width="1323" height="242" key="GridCell.Tab.0.right" timestamp="1599099194273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598060748639" />
+    <state width="1323" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599099194273" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1596917371081">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
