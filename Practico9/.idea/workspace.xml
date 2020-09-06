@@ -191,12 +191,12 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.practico10.abrirNavegador" />
+      <item itemvalue="TestNG.practico10.customSalesforceLink" />
+      <item itemvalue="TestNG.practico10.forgotAccountPartialLink" />
+      <item itemvalue="TestNG.practico10.forgotAccount" />
       <item itemvalue="TestNG.primeraPrueba.abrirNavg" />
       <item itemvalue="TestNG.primeraPrueba.getBrowserSizes" />
-      <item itemvalue="TestNG.practico10.abrirNavegador" />
-      <item itemvalue="TestNG.practico10.forgotAccount" />
-      <item itemvalue="TestNG.practico10.forgotAccountPartialLink" />
-      <item itemvalue="TestNG.practico10.customSalesforceLink" />
     </list>
     <recent_temporary>
       <list>
