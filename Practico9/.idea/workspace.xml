@@ -62,19 +62,18 @@
       <recent name="C:\Users\Aynel Cruz\Documents\aynel\Practico9\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.practico10.customSalesforceLink">
-    <configuration name="practico10.abrirNavegador" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.spotify_test.setBaseURL">
+    <configuration name="docusign_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practico9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practico10.*" />
+          <option name="PATTERN" value="practico11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practico10" />
-      <option name="MAIN_CLASS_NAME" value="practico10.practico10" />
-      <option name="METHOD_NAME" value="abrirNavegador" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="practico11" />
+      <option name="MAIN_CLASS_NAME" value="practico11.docusign_test" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -99,17 +98,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practico10.forgotAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="practico11.completeDocusignRegistrationForm" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practico9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practico10.*" />
+          <option name="PATTERN" value="practico11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practico10" />
-      <option name="MAIN_CLASS_NAME" value="practico10.practico10" />
-      <option name="METHOD_NAME" value="forgotAccount" />
+      <option name="PACKAGE_NAME" value="practico11" />
+      <option name="MAIN_CLASS_NAME" value="practico11.practico11" />
+      <option name="METHOD_NAME" value="completeDocusignRegistrationForm" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -117,17 +116,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practico10.forgotAccountPartialLink" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="practico11.defaultxPath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practico9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practico10.*" />
+          <option name="PATTERN" value="practico11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practico10" />
-      <option name="MAIN_CLASS_NAME" value="practico10.practico10" />
-      <option name="METHOD_NAME" value="forgotAccountPartialLink" />
+      <option name="PACKAGE_NAME" value="practico11" />
+      <option name="MAIN_CLASS_NAME" value="practico11.practico11" />
+      <option name="METHOD_NAME" value="defaultxPath" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -178,11 +177,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="primeraPrueba.getBrowserSizes" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="spotify_test.setBaseURL" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Practico9" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="practico9.primeraPrueba" />
-      <option name="METHOD_NAME" value="getBrowserSizes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practico11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practico11" />
+      <option name="MAIN_CLASS_NAME" value="practico11.spotify_test" />
+      <option name="METHOD_NAME" value="setBaseURL" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -191,20 +196,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.practico10.abrirNavegador" />
-      <item itemvalue="TestNG.practico10.customSalesforceLink" />
-      <item itemvalue="TestNG.practico10.forgotAccountPartialLink" />
-      <item itemvalue="TestNG.practico10.forgotAccount" />
       <item itemvalue="TestNG.primeraPrueba.abrirNavg" />
-      <item itemvalue="TestNG.primeraPrueba.getBrowserSizes" />
+      <item itemvalue="TestNG.practico10.customSalesforceLink" />
+      <item itemvalue="TestNG.practico11.completeDocusignRegistrationForm" />
+      <item itemvalue="TestNG.practico11.defaultxPath" />
+      <item itemvalue="TestNG.docusign_test" />
+      <item itemvalue="TestNG.spotify_test.setBaseURL" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.spotify_test.setBaseURL" />
+        <item itemvalue="TestNG.docusign_test" />
+        <item itemvalue="TestNG.practico11.defaultxPath" />
+        <item itemvalue="TestNG.practico11.completeDocusignRegistrationForm" />
         <item itemvalue="TestNG.practico10.customSalesforceLink" />
-        <item itemvalue="TestNG.practico10.forgotAccountPartialLink" />
-        <item itemvalue="TestNG.practico10.forgotAccount" />
-        <item itemvalue="TestNG.practico10.abrirNavegador" />
-        <item itemvalue="TestNG.primeraPrueba.getBrowserSizes" />
       </list>
     </recent_temporary>
   </component>
@@ -246,22 +251,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1596916339210" />
-    <state width="1323" height="242" key="GridCell.Tab.0.bottom" timestamp="1599099622586">
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom" timestamp="1600703436018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599099622586" />
-    <state width="1323" height="242" key="GridCell.Tab.0.center" timestamp="1599099622586">
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600703436018" />
+    <state width="1323" height="242" key="GridCell.Tab.0.center" timestamp="1600703436017">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599099622586" />
-    <state width="1323" height="242" key="GridCell.Tab.0.left" timestamp="1599099622586">
+    <state width="1323" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600703436017" />
+    <state width="1323" height="242" key="GridCell.Tab.0.left" timestamp="1600703436017">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599099622586" />
-    <state width="1323" height="242" key="GridCell.Tab.0.right" timestamp="1599099622586">
+    <state width="1323" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600703436017" />
+    <state width="1323" height="242" key="GridCell.Tab.0.right" timestamp="1600703436017">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599099622586" />
+    <state width="1323" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600703436017" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1596917371081">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

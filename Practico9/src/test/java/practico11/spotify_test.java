@@ -5,11 +5,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 import utilities.GetProperties;
 
-public class practico11 {
+public class spotify_test {
     private WebDriver driver;
 
     @Test
-    public WebDriver abrirNavegador(String url){
+    public WebDriver setBaseURL(String url) {
         GetProperties properties = new GetProperties();
         String chromeDriverURL = properties.getString("CHROMEDRIVER_PATH");
         //System.setProperty("webdriver.chrome.driver",chromeDriverURL);
@@ -18,8 +18,8 @@ public class practico11 {
         WebDriver driver = new ChromeDriver();
         driver.get(url);
         return driver;
-        //driver.close();
     }
-    @Test
-    public void 
+    /*Crear un método llamado spotifyByName
+Ingresar al sitio: https://www.spotify.com/uy/signup/
+Completar todos los campos con xpath name*/
 }
