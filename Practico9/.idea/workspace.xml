@@ -197,10 +197,10 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.primeraPrueba.abrirNavg" />
+      <item itemvalue="TestNG.docusign_test" />
       <item itemvalue="TestNG.practico10.customSalesforceLink" />
       <item itemvalue="TestNG.practico11.completeDocusignRegistrationForm" />
       <item itemvalue="TestNG.practico11.defaultxPath" />
-      <item itemvalue="TestNG.docusign_test" />
       <item itemvalue="TestNG.spotify_test.setBaseURL" />
     </list>
     <recent_temporary>
@@ -251,22 +251,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1596916339210" />
-    <state width="1323" height="242" key="GridCell.Tab.0.bottom" timestamp="1600703436018">
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1604773661981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600703436018" />
-    <state width="1323" height="242" key="GridCell.Tab.0.center" timestamp="1600703436017">
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604773661981" />
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom" timestamp="1600706638093">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600703436017" />
-    <state width="1323" height="242" key="GridCell.Tab.0.left" timestamp="1600703436017">
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600706638093" />
+    <state width="1323" height="242" key="GridCell.Tab.0.center" timestamp="1600706638092">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600703436017" />
-    <state width="1323" height="242" key="GridCell.Tab.0.right" timestamp="1600703436017">
+    <state width="1323" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600706638092" />
+    <state width="1323" height="242" key="GridCell.Tab.0.left" timestamp="1600706638092">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600703436017" />
+    <state width="1323" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600706638092" />
+    <state width="1323" height="242" key="GridCell.Tab.0.right" timestamp="1600706638093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600706638093" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1596917371081">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -295,6 +299,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="252" y="93" width="861" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1596916930437" />
+    <state x="65" y="25" key="new project wizard" timestamp="1604773704984">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="25" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1604773704983" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Practico9$primeraPrueba_abrirNavg__1_.ic" NAME="primeraPrueba.abrirNavg (1) Coverage Results" MODIFIED="1596917340867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
