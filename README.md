@@ -1,2 +1,0 @@
-# aynel
-Curso de Selenium
